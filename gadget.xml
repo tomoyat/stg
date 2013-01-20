@@ -2,6 +2,6 @@
 <Module>
   <ModulePrefs title="アプリケーション - GREEアプリ">
   </ModulePrefs>
-  <Content view="mobile" type="url" href="http://example.com/app.html" />
+  <Content view="mobile" type="url" href="http://desolate-mesa-7571.herokuapp.com/" />
 </Module>
 
