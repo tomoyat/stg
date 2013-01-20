@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="アプリケーション - GREEアプリ">
+  </ModulePrefs>
+  <Content view="mobile" type="url" href="http://example.com/app.html" />
+</Module>
+
